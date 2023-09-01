@@ -1,0 +1,6 @@
+width = int(input("Enter a number for the width: "))
+breadth = int(input("Enter a number for the breadth: "))
+area = (width * breadth)
+perimeter = 2 * (width + breadth)
+print("Area is: ", area)
+print("Perimeter is: ", perimeter)
